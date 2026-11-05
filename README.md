@@ -135,4 +135,4 @@ Code is under the MIT License. The report text and charts are mine, all rights r
 
 **Harsh Jain**, Indian Institute of Technology Gandhinagar
 
-Contact: [add your email or LinkedIn here]
+Contact: [harsh.jain@iitgn.ac.in](mailto:harsh.jain@iitgn.ac.in)
