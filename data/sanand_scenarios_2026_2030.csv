@@ -1,0 +1,16 @@
+scenario,year,utilisation_%,units_m,value_per_unit_usd,throughput_value_usd_b
+Conservative,2026,1.5,20,4.07,0.08
+Conservative,2027,11.0,149,4.07,0.61
+Conservative,2028,20.0,270,4.07,1.1
+Conservative,2029,28.0,379,4.07,1.54
+Conservative,2030,35.0,473,4.07,1.93
+Base,2026,3.0,41,6.26,0.25
+Base,2027,18.0,243,6.26,1.52
+Base,2028,33.0,446,6.26,2.79
+Base,2029,45.0,608,6.26,3.81
+Base,2030,55.0,744,6.26,4.65
+Optimistic,2026,5.0,68,8.82,0.6
+Optimistic,2027,30.0,406,8.82,3.58
+Optimistic,2028,45.0,608,8.82,5.37
+Optimistic,2029,62.0,838,8.82,7.39
+Optimistic,2030,80.0,1082,8.82,9.54

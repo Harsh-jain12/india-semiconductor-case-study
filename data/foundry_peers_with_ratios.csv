@@ -1,0 +1,43 @@
+company,year,currency,revenue_local_m,revenue_usd_m,gross_margin_pct,capex_local_m,utilisation_pct,utilisation_type,shipments_k,shipment_unit,source,notes,ship_12in_k,rev_per_wafer_usd,capex_intensity_pct
+UMC,2019,TWD,,,,,,,,,Not available,Bigdata.com tearsheet covers FY2021-25 only; 2019-20 filings not uploaded. Left blank.,,,
+UMC,2020,TWD,,,,,,,,,Not available,As above,,,
+UMC,2021,TWD,213010.0,,33.8,49960.0,104.4,Reported (annual average),,,Revenue/GM/capex: Bigdata.com tearsheet (FMP). Utilisation: UMC 20-F FY2023 (via Bigdata.com),"No sourced average FX for 2021, so no US$ revenue. Shipments not found.",,,23.5
+UMC,2022,TWD,278710.0,,45.1,82880.0,100.6,Reported (annual average),,,As 2021,,,,29.7
+UMC,2023,TWD,222530.0,,34.9,94020.0,68.5,Reported (annual average),,,As 2021,,,,42.3
+UMC,2024,TWD,232303.0,7244.0,32.6,91340.0,,,,,"Revenue/GM: UMC 4Q25 financial presentation (NT$232,303M; GM 32.6%). Capex: tearsheet. US$ at NT$32.07 (implied by PSMC 4Q25 deck)","Annual utilisation and shipments for 2024 not in uploaded files (only 4Q24: 70%, 909k)",,,39.3
+UMC,2025,TWD,237553.0,7636.0,29.0,47740.0,75.0,Derived (annual shipments / annual capacity),3871.0,12-inch eq,"UMC 4Q25 earnings report: shipments 910+967+1000+994k; 2025 capacity 5,163k 12-inch eq; GM 29.0%; capex US$1.6B. US$ at NT$31.11 (implied by PSMC 4Q25 deck)",Quarterly utilisation 69/76/78/78% (avg 75.25%),3871.0,1973.0,20.1
+GlobalFoundries,2019,USD,,,,,,,,,Not available,Outside tearsheet range,,,
+GlobalFoundries,2020,USD,,,,,,,,,Not available,Outside tearsheet range,,,
+GlobalFoundries,2021,USD,6585.0,6585.0,15.3,1770.0,,Not disclosed,,,Bigdata.com tearsheet (FMP),GF does not publish utilisation. 2021 shipments not found.,,,26.9
+GlobalFoundries,2022,USD,8108.0,8108.0,27.6,3060.0,,Not disclosed,2472.0,12-inch eq (300mm),Revenue/GM: GF 20-F FY2023 and 4Q23 slides (via Bigdata.com); capex: tearsheet,,2472.0,3280.0,37.7
+GlobalFoundries,2023,USD,7392.0,7392.0,28.4,1800.0,,Not disclosed,2211.0,12-inch eq (300mm),GF 20-F FY2023; 4Q23 slides (via Bigdata.com); capex: tearsheet,,2211.0,3343.0,24.4
+GlobalFoundries,2024,USD,6750.0,6750.0,24.5,625.0,,Not disclosed,2124.0,12-inch eq (300mm),GF 4Q25/FY25 results release (P6 file),"Capex = purchases of PP&E and intangibles, before government grants",2124.0,3178.0,9.3
+GlobalFoundries,2025,USD,6791.0,6791.0,24.9,722.0,,Not disclosed,2345.0,12-inch eq (300mm),GF 4Q25/FY25 results release (P6 file),"Revenue includes engineering and other services (~13%), so revenue per wafer is overstated vs pure wafer ASP",2345.0,2896.0,10.6
+PSMC,2019,TWD,,,,,,,,,Not available,Outside tearsheet range,,,
+PSMC,2020,TWD,,,,,,,,,Not available,Outside tearsheet range,,,
+PSMC,2021,TWD,65620.0,,42.0,10140.0,,,,,Bigdata.com tearsheet (FMP),Annual utilisation and shipments not found,,,15.5
+PSMC,2022,TWD,76090.0,,46.8,19450.0,,,,,Bigdata.com tearsheet (FMP),,,,25.6
+PSMC,2023,TWD,44020.0,,12.0,48020.0,,,,,Bigdata.com tearsheet (FMP),,,,109.1
+PSMC,2024,TWD,44726.0,1395.0,1.2,23500.0,,,,,"PSMC 4Q25 investor conference (revenue NT$44,726M = US$1,394.81M; GP NT$526M); capex: tearsheet","4Q24 utilisation 71%, shipments 359k (quarter only)",,,52.5
+PSMC,2025,TWD,46730.0,1502.0,-3.3,8590.0,76.75,Derived (9M 75% and 4Q 82%; equal quarterly capacity assumed),,,"PSMC 4Q25 deck (revenue, GP NT$-1,537M, 4Q util 82%); PSMC 3Q26 deck note 2 (9M-2025 util 75%); capex: tearsheet (company: actual ~US$0.286B)","Tearsheet shows GP NT$-2.80B; company figure used. Annual shipments not available (only 3Q25 440k, 4Q25 415k). Revenue includes memory/product sales, not only foundry.",,,18.4
+VIS,2019,TWD,,,,,,,,,Not available,Outside tearsheet range,,,
+VIS,2020,TWD,,,,,,,,,Not available,Outside tearsheet range,,,
+VIS,2021,TWD,43950.0,,43.6,13300.0,,,,,Bigdata.com tearsheet (FMP),Utilisation and shipments not found,,,30.3
+VIS,2022,TWD,51690.0,,46.3,18860.0,,,,,Bigdata.com tearsheet (FMP),,,,36.5
+VIS,2023,TWD,38270.0,,27.3,6900.0,,,,,Bigdata.com tearsheet (FMP),,,,18.0
+VIS,2024,TWD,44050.0,1374.0,27.1,15940.0,,,,,GM: VIS 2025 annual report letter (27.1%); revenue/capex: tearsheet; US$ at NT$32.07,"2024 shipments shown only as a bar chart (~2,200k 8-inch); not read off",,,36.2
+VIS,2025,TWD,48590.0,1562.0,28.1,63260.0,74.0,Reported (annual),2532.0,8-inch,"VIS 2025 annual report, letter to shareholders (capacity 3,434k 8-inch, shipments 2,532k, utilisation 74%, GM 28.1%, capex ~NT$64B); US$ at NT$31.11",Tearsheet GM 27.7%; company figure used,1125.3333333333333,1388.0,130.2
+SMIC,2019,USD,,,,,,,,,Not available,Outside tearsheet range,,,
+SMIC,2020,USD,,,,,,,,,Not available,Outside tearsheet range,,,
+SMIC,2021,USD,5443.0,5443.0,30.8,4340.0,99.7,Derived (average of quarterly 98.7/100.4/100.3/99.4%),6747.19,8-inch eq,Revenue/capex: tearsheet; GM and shipments: SMIC 2025 annual results 5-year summary (P6 file); quarterly utilisation: SMIC 4Q21 slides (via Bigdata.com),,2998.7511111111107,1815.0,79.7
+SMIC,2022,USD,7273.0,7273.0,38.0,6260.0,92.0,Reported (annual),7098.46,8-inch eq,SMIC 5-year summary; utilisation: 4Q22 earnings call (via Bigdata.com),,3154.871111111111,2305.0,86.1
+SMIC,2023,USD,6322.0,6322.0,19.3,7630.0,75.0,Reported (annualised),5866.68,8-inch eq,SMIC 5-year summary; utilisation: 2023 annual report letter (via Bigdata.com),,2607.4133333333334,2425.0,120.7
+SMIC,2024,USD,8030.0,8030.0,18.0,7670.0,85.5,Derived (2025 AR: +8 pp to 93.5%),8020.8,8-inch eq,SMIC 5-year summary and 2025 annual results (P6 file),,3564.8,2253.0,95.5
+SMIC,2025,USD,9327.0,9327.0,21.0,8350.0,93.5,Reported (annual),9696.82,8-inch eq,SMIC 2025 annual results (P6 file),,4309.697777777777,2164.0,89.5
+HuaHong,2019,USD,,,,,,,,,Not available,Outside range of 5-year summary,,,
+HuaHong,2020,USD,,,,,,,,,Not available,Outside range of 5-year summary,,,
+HuaHong,2021,USD,1630.8,1630.8,27.7,938.9,,,,,Hua Hong 2025 annual results 5-year summary (P6 file); capex: tearsheet,Utilisation and shipments not found,,,57.6
+HuaHong,2022,USD,2475.5,2475.5,34.1,996.2,,,,,As 2021,,,,40.2
+HuaHong,2023,USD,2286.1,2286.1,21.3,906.6,,,4103.0,8-inch eq,5-year summary; shipments: 4Q23 report (via Bigdata.com),"Quarterly utilisation 103.5% (1Q), 102.7% (2Q); annual not found",1823.5555555555557,1254.0,39.7
+HuaHong,2024,USD,2004.0,2004.0,10.2,2780.0,99.5,Reported (annual),4545.0,8-inch eq,Hua Hong 2025 annual results (P6 file); capex: tearsheet,,2020.0,992.0,138.7
+HuaHong,2025,USD,2402.1,2402.1,11.8,1800.0,106.1,Reported (annual),5384.0,8-inch eq,Hua Hong 2025 annual results (P6 file); capex: tearsheet,Tearsheet GP US$343.7M vs company US$282.9M; company figure used. Low GM at full loading = new Wuxi 12-inch fab depreciation,2392.8888888888887,1004.0,74.9

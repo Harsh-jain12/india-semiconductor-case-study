@@ -1,0 +1,6 @@
+case,support_%,GM_breakeven_loading_2030_%,GM_breakeven_loading_2033_%,GM_breakeven_loading_2036_%,cash_breakeven_loading_2033_%,gross_margin_2033_%,net_capex_usd_m,project_irr_%,payback_year,irr_20yr_life_%,payback_year_20yr
+No support,0,173,128,78,26,-39,9634,-11.2,not by 2037,-3.8,none
+Central 50% only,50,99,75,50,26,9,4817,-3.6,not by 2037,3.0,2043
+Semicon 2.0 + Gujarat (up to 56%),56,90,69,47,26,14,4239,-1.9,not by 2037,4.4,2042
+"Semicon 2.0 + Gujarat (eligible capex, ~45% of total)",56,90,69,47,26,14,5318,-5.2,not by 2037,1.8,2044
+Semicon 1.0 + Gujarat (~65% PV),65,76,60,42,26,23,3372,1.4,not by 2037,7.0,2039

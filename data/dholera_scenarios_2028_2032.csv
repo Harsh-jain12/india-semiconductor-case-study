@@ -1,0 +1,16 @@
+scenario,year,utilisation_%,yield_%,wafers_out_k,price_usd_per_wafer,illustrative_value_usd_m,illustrative_value_rs_cr_at95
+Base,2028,5.0,75.0,22,2208,50,472
+Base,2029,18.0,85.0,92,2208,203,1926
+Base,2030,25.0,90.0,135,2208,298,2832
+Base,2031,45.0,93.0,251,2208,555,5268
+Base,2032,68.5,95.0,390,2208,862,8192
+Conservative,2028,2.0,60.0,7,992,7,68
+Conservative,2029,8.0,75.0,36,992,36,339
+Conservative,2030,10.0,85.0,51,992,51,481
+Conservative,2031,25.0,88.0,132,992,131,1244
+Conservative,2032,40.0,90.0,216,992,214,2036
+Optimistic,2028,10.0,85.0,51,3343,170,1620
+Optimistic,2029,30.0,92.0,166,3343,554,5259
+Optimistic,2030,50.0,95.0,285,3343,953,9051
+Optimistic,2031,70.0,97.0,407,3343,1362,12938
+Optimistic,2032,92.0,98.0,541,3343,1808,17180

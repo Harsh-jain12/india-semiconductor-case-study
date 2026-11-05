@@ -1,0 +1,7 @@
+input,low_case,high_case,swing
+ssd_value_per_unit_usd,4.469,5.027,0.558
+ssd_share_units,4.465,5.034,0.569
+dram_share_units,5.213,4.097,1.115
+dram_value_per_chip_usd,3.93,5.622,1.692
+nand_value_per_package_usd,3.391,6.93,3.54
+utilisation_2030,2.539,7.194,4.655

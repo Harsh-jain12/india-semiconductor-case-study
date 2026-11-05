@@ -1,0 +1,7 @@
+fiscal_year,hs8541_imports_usd_m,hs8542_imports_usd_m,solar_share_of_8541,hs8541_exports_usd_m,hs8542_exports_usd_m,source,notes,total_usd_m,ex_solar_usd_m
+FY20,2738,10106,,,,"TradeStat import data, Ministry of Commerce (Phase 2 rows 10-11)",,12844,
+FY21,2757,9146,,,,TradeStat (Phase 2),,11903,
+FY22,7945,13635,,,,TradeStat (Phase 2),,21580,
+FY23,3802,16144,,,,TradeStat (Phase 2),,19946,
+FY24,7966,20707,0.78,,,"TradeStat (Phase 2); solar share: TradeStat 8-digit split via busy.in (85414200 + 85414300), Rs crore basis",Solar share applied to US$ totals,28673,22459.52
+FY25,5667,24655,0.67,1303.0,254.0,TradeStat (Phase 2); exports: TradeStat export data (Phase 2 row 16),8542 imports = 3.42% of India's total imports,30322,26525.11

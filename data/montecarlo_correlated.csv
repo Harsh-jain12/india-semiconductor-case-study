@@ -1,0 +1,10 @@
+model,rho,P10,P50,P90,P90/P10
+Sanand 2030 throughput value (US$B),0.0,3.36,5.17,7.71,2.29
+Sanand 2030 throughput value (US$B),0.7,2.91,5.23,8.71,2.99
+Sanand 2030 throughput value (US$B),1.0,2.72,5.18,9.06,3.33
+Dholera 2030 illustrative value (US$M),0.0,187.0,319.0,507.0,2.71
+Dholera 2030 illustrative value (US$M),0.7,156.0,324.0,580.0,3.72
+Dholera 2030 illustrative value (US$M),1.0,143.0,324.0,611.0,4.27
+Dholera 2032 illustrative value (US$M),0.0,542.0,813.0,1135.0,2.09
+Dholera 2032 illustrative value (US$M),0.7,477.0,824.0,1252.0,2.62
+Dholera 2032 illustrative value (US$M),1.0,444.0,828.0,1296.0,2.92

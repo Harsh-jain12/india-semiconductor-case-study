@@ -1,0 +1,4 @@
+scenario,market_usd_b,micron_usd_b,dholera_usd_b,merchant_osat_usd_b,a_made_or_packaged_usd_b,a_%,b_supplied_to_india_usd_b,b_%,c_value_added_usd_b,c_%
+Conservative,80,1.93,0.19,1.24,3.36,4.2,0.48,0.6,0.78,1.0
+Base,96,4.65,0.32,1.86,6.83,7.1,1.58,1.7,1.28,1.3
+Optimistic,119,9.54,0.5,2.48,12.52,10.5,4.06,3.4,1.93,1.6

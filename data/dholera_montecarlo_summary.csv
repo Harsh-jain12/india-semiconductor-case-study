@@ -1,0 +1,16 @@
+scenario,year,wafers_out_k,illustrative_value_usd_m,illustrative_value_rs_cr_at95
+MonteCarlo_P10,2028,15,30,285
+MonteCarlo_P50,2028,24,52,491
+MonteCarlo_P90,2028,35,83,786
+MonteCarlo_P10,2029,64,122,1157
+MonteCarlo_P50,2029,93,198,1885
+MonteCarlo_P90,2029,126,300,2852
+MonteCarlo_P10,2030,96,186,1770
+MonteCarlo_P50,2030,149,319,3027
+MonteCarlo_P90,2030,216,504,4787
+MonteCarlo_P10,2031,191,355,3374
+MonteCarlo_P50,2031,257,552,5244
+MonteCarlo_P90,2031,330,792,7525
+MonteCarlo_P10,2032,295,539,5125
+MonteCarlo_P50,2032,380,812,7710
+MonteCarlo_P90,2032,459,1131,10744
