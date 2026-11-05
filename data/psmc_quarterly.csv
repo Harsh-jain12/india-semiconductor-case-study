@@ -1,0 +1,6 @@
+quarter,utilisation_pct,revenue_ntd_m,gross_profit_ntd_m,gross_margin_pct,shipments_12in_k,source,notes
+4Q24,71,11132,-1237,-11.1,359,"PSMC 4Q25 investor conference (2026-02-05)","Before 2026 price rises"
+3Q25,78,11841,-773,-6.5,440,"PSMC 4Q25 investor conference","Before 2026 price rises"
+4Q25,82,12495,794,6.4,415,"PSMC 4Q25 investor conference","Before 2026 price rises"
+2Q26,87,17291,4889,28.3,422,"PSMC 3Q26 investor conference (2026-10-21)","After price rises (logic ASP +8-10% in Q3; memory foundry prices up); excluded from fit"
+3Q26,97,21342,10148,47.5,416,"PSMC 3Q26 investor conference","Blended ASP +24% QoQ; Tongluo Fab P5 stopped; excluded from fit"

@@ -1,0 +1,26 @@
+phase,item,old_value,new_value,reason
+All,FX rule,"Mixed: Rs82 (Micron 2023), Rs83 (Tata 2024), Rs84.6 (FY25 flows), Rs85 (Phase 2 capex), Rs96 (Semicon 2.0)","One rate: Rs95/US$ for every Rs->US$ conversion. Company figures disclosed in US$ (Micron US$2.75B, CG Semi US$500M target, Fujifilm US$83M) stay in US$","Phase 3/4/6 carry-forward: one consistent rate. Note: for historical flows (e.g. FY25 production) the year-average rate is more accurate; Rs is the primary figure and US$ at Rs95 is shown for comparability"
+Phase 2,Electronics production FY25 (Rs11.3 lakh Cr),US$134B (Rs84.6),US$119B (Rs95),FX rule
+Phase 2,Mobile phone production FY25 (Rs5.45 lakh Cr),US$64B (Rs84.6),US$57B (Rs95),FX rule
+Phase 2,Electronics imports FY25 (Rs8.4 lakh Cr),US$99B (Rs84.6),US$88B (Rs95),FX rule
+Phase 2,Fab price per wafer,"US$3,000 (anchored below UMC's ~US$4,300, an estimate)","US$2,208 (peer median revenue per 12-inch-eq wafer 2021-25; UMC 2025 actual ~US$1,973)",Phase 6 peer dataset from filings
+Phase 2,Dholera full-output value,"US$1.8B (600k wafers x US$3,000)","US$1.26B (600k x 95% yield x US$2,208)",New price and yield
+Phase 2,Dholera 2030 output value,US$0.2-0.9B (10-50% x US$1.8B),"US$0.19-0.50B (Phase 6 Monte Carlo P10-P90; P50 US$0.32B)",New price; ramp from Phase 6
+Phase 2,OSAT revenue/capex ratio,0.55 (CG Semi US$500M on Rs7,600 Cr at Rs85),0.625 (US$500M / (Rs7,600 Cr / 95) = 500/800),FX rule (ratio derived from a US$ target)
+Phase 2,Merchant OSAT full-ramp revenue (Rs48,000 Cr capex),US$3.1B,US$3.16B (Rs48,000 Cr / 95 x 0.625); 40-80% of ramp = US$1.26-2.53B,Corrected ratio and FX (nearly offsetting)
+Phase 2,2030 revenue of Indian fab + merchant OSAT (ex-Micron),US$1.4-3.4B = 1.5-3.5% of US$96B,"US$1.45-3.03B = 1.5-3.2% of US$96B (base US$2.22B, 2.3%)",Rows above
+Phase 3,Semicon 2.0 outlay Rs1,27,500 Cr,US$13.3B (Rs96),US$13.4B (Rs95),FX rule
+Phase 3,Fiscal cost both phases Rs2,03,500 Cr,US$21.2B (Rs96) / US$23.9B (Rs85),US$21.4B (Rs95),FX rule
+Phase 4,Notional full-ramp value of 10 approved ATP units (Rs69,699 Cr capex),US$4.04B (ratio 0.55),US$4.59B (ratio 0.625),Corrected ratio
+Phase 4,Value-based India share of global ATP 2030 (cons/base/opt),0.8% / 1.4% / 2.6%,0.9% / 1.6% / 2.9%,Corrected ratio (as flagged in Phase 4 cautions)
+Phase 4,Tracker row 1 Micron,"Rs22,516 Cr; 1,352M units/yr (PRS); Jun 2023; 5,000 direct / 15,000 community; commercial production Feb 2026",Unchanged. Confidence High,"Re-checked against P5 files (Micron PR, PIB 28 Feb 2026, FY26 10-K). PIB ~728M/yr capacity still unresolved (Phase 5 open question)"
+Phase 4,Tracker row 5 Kaynes,"Rs3,307 Cr; 6.33M chips/day; 2 Sep 2024; jobs n.a.; Medium","Rs3,307 Cr; 6.3M chips/day; 2 Sep 2024; 46 acres; partners Globetronics (Malaysia), Aptos (Taiwan), AOI (Japan); jobs not stated. Confidence High","Cabinet briefing 2 Sep 2024 via PTI/Business Standard/Global SMT (PIB file still not uploaded)"
+Phase 4,Tracker row 6 HCL-Foxconn,"Rs3,706 Cr; 20,000 wafers/month, 36M units/month; 14 May 2025; ~2,000 jobs; Medium","Same; ~Rs1,500 Cr govt incentive reported; display driver chips. Confidence High","Cabinet briefing 14 May 2025 via PTI/Business Today/Deccan Herald"
+Phase 4,Tracker rows 7-10 (SiCSem 3DGS CDIL ASIP),"Rs2,067 / 1,944 / 118 / 469 Cr (PRS); 12 Aug 2025; 2,034 jobs; Low","Capacities and date confirmed (SiCSem 60,000 wafers + 96M units; 3DGS 69,600 panels + 50M units + 13,200 3DHI; CDIL 158M units; ASIP 96M units with APACT). Cabinet totals Rs4,594 Cr (3DGS Rs1,943 Cr, CDIL Rs117 Cr vs PRS 1,944 / 118). PRS figures kept. Confidence: approval High, status Low","Cabinet briefing 12 Aug 2025 via PTI/IANS/Tribune/Outlook Business"
+Phase 4,Tracker rows 11-12 (Crystal Matrix Suchi),"Rs3,068 / 868 Cr; 5 May 2026; 2,230 jobs combined; Medium","Confirmed: total Rs3,936 Cr; 2,230 jobs of which 1,600 at Crystal Matrix; Suchi 1,033.2M chips/yr; CM fab in ~2 yrs, ATMP in ~1.5 yrs. Confidence High (approval)","Cabinet briefing 5 May 2026 via PTI/IANS/Inc42/YourStory; minister: Micron and Kaynes capacity 'completely booked'"
+Phase 5,Micron capex per unit of capacity,US$2.03 (stated as Rs167 at Rs82),US$2.03 (company US$2.75B / 1,352M); Rs167,No change: company US$ figure kept per FX rule
+Phase 6,Dholera project cost Rs91,526 Cr,US$11.0B (Rs83),US$9.63B (Rs95),FX rule
+Phase 6,Assam OSAT Rs27,000 Cr,US$3.3B (Rs83),US$2.84B (Rs95),FX rule
+Phase 6,Dholera capex per wspm,US$220k (Rs83),US$193k (Rs95),FX rule
+Phase 6,Capex benchmark wording (8.6),"vs Hua Hong US$81k: 'Part is a real cost penalty for a first fab outside the existing clusters'","Add UMC Fab12i P3 (Singapore, 22/28nm): US$5B / 30,000 wspm = US$167k per wspm (UMC release 24 Feb 2022, verified). Dholera US$193k = ~16% premium over UMC P3 (2.4x Hua Hong). Wording: 'part may be a first-fab premium'",P7 UMC press release; Hua Hong sits in a low-cost Chinese cluster
+Phase 6,Chart 1 layout,Legend inside plot covering Hua Hong '24; VIS '25 label on UMC '25,Legend outside right; VIS label nudged,Harsh review item 5 (fixed in Phase 7 notebook rebuild of chart)

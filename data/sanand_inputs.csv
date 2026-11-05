@@ -1,0 +1,12 @@
+input,low,mode,high,unit,type,source_or_basis
+capacity_units,1352,1352,1352,million packaged units per year,Actual (as stated),"PRS Table 12 (Phase 4 tracker). Note: PIB (via TrendForce, Aug 2026) gives ~14M units/week = ~728M/yr, probably Phase 1 only"
+utilisation_2030,0.30,0.55,0.85,share of 1352M,Assumed,"Phase 1 alone = ~54% of 1352M; Phase 2 'similar in scale' starts in second half of decade (Micron, Jun 2023)"
+dram_share_units,0.50,0.65,0.80,share of units,Assumed,"Micron revenue is ~75-80% DRAM; unit mix not disclosed"
+ssd_share_units,0.005,0.01,0.02,share of units,Assumed,"Sanand makes SSDs but each SSD holds several NAND packages, so finished SSDs are a small share of unit count"
+dram_value_per_chip_usd,2.5,4.0,6.0,US$ per packaged DRAM chip,Assumed (anchored),"TrendForce spot, Jan-Mar 2025 (pre-boom): DDR4 16Gb ~US$2.9-3.3, DDR5 16Gb ~US$4.7-4.9"
+nand_value_per_package_usd,4,9,18,US$ per packaged NAND component,Assumed (anchored),"TrendForce 2Q25 PC-client OEM SSD contract: 1TB ~US$61 (~US$7.6 per Tb incl. controller); 512Gb TLC wafer-level die US$1.4-3.0 in 2023"
+ssd_value_per_unit_usd,35,60,110,US$ per SSD,Assumed (anchored),"TrendForce 2Q25 PC-client OEM SSD contract: 512GB ~US$35, 1TB ~US$61; data-centre SSDs higher"
+domestic_share_of_output,0.10,0.20,0.30,share of Sanand output sold in India,Assumed,"Micron: site serves customers worldwide; CEO (Sep 2026): capacity already exceeds India's memory needs"
+india_value_added_share,0.10,0.12,0.15,back-end share of product value,Assumed,"SIA-BCG: ATP ~6% of industry value added; memory back-end incl. module/SSD assembly assumed 10-15%"
+local_share_of_backend,0.35,0.45,0.55,share of back-end value that stays in India,Assumed,"Phase 2/4: materials ~55% of OSAT cost (Amkor), mostly imported (substrates, lead frames, controllers)"
+fx_inr_per_usd_2026,95,95,95,INR per USD,Assumed (project convention),"Phase 3/4 convention for 2026 figures; INR82 for 2023 Micron figures"
